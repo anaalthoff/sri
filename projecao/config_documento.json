@@ -1,0 +1,11 @@
+{
+  "embeddings": [    	
+	{
+      "tensorName": "Embeddings concat 4 últimas camadas",
+      "tensorShape": [30, 768],
+      "tensorPath": "https://raw.githubusercontent.com/anaalthoff/sri/refs/heads/main/projecao/documento/records_documento_768_base_CLS.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/anaalthoff/sri/refs/heads/main/projecao/documento/meta_documento_768_base_CLS.tsv"
+    }
+  ],
+  "modelCheckpointPath": "<b>Embeddings de Documento"
+}
