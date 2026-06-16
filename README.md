@@ -40,7 +40,7 @@ Posteriormente os notebooks podem ser executados em ordem sequencial conforme a 
 ## Projeções de embeddings
 *Links* para os arquivos de configuração das projeções de embeddings no Embedding Projector:
 
-- **Documentos**: config_documento.json: https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/config_documento.json
+- **Documentos**: config_documento.json: https://projector.tensorflow.org/?config=https://https://raw.githubusercontent.com/anaalthoff/sri/refs/heads/main/projecao/config_documento.json
 - **Tokens**: config_token.json: https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/config_token.json
 - **Tokens e Documentos**: config_token_documento.json: https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/config_token_documento.json
 - **Sentenças e Documentos**: config_sentenca_documento.json: https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/sri/main/projecao/config_sentenca_documento.json
