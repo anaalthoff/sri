@@ -2,7 +2,7 @@
   "embeddings": [    	
 	{
       "tensorName": "Pooling última camada",
-      "tensorShape": [120, 768],
+      "tensorShape": [355, 768],
       "tensorPath": "https://raw.githubusercontent.com/anaalthoff/sri/refs/heads/main/projecao/sentenca_documento/DOALL_records_sentenca_documento_768_base.tsv",
       "metadataPath": "https://raw.githubusercontent.com/anaalthoff/sri/refs/heads/main/projecao/sentenca_documento/DOALL_meta_sentenca_documento_768_base.tsv"
     },
